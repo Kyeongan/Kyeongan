@@ -8,13 +8,13 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyeongan&hide_border=false)](https://git.io/streak-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyeongan&langs_count=5&hide=html,css,tex)](https://github.com/Kyeongan/github-readme-stats) -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyeongan&show_icons=true&include_all_commits=true&hide_border=true" alt="Karl Kwon's github stats" /></a> | <a href="https://github.com/Kyeongan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyeongan&layout=compact&langs_count=8&hide=html,css,tex&hide_border=true" /></a> |
+| <a href="https://github.com/Kyeongan/Kyeongan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyeongan&show_icons=true&include_all_commits=true&hide_border=true" alt="Karl Kwon's github stats" /></a> | <a href="https://github.com/Kyeongan/Kyeongan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyeongan&layout=compact&langs_count=8&hide=html,css,tex&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 #### Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyeongan&repo=deck.gl)](https://github.com/Kyeongan/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyeongan&repo=UKC-Python)](https://github.com/Kyeongan/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyeongan&repo=deck.gl)](https://github.com/Kyeongan/Kyeongan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyeongan&repo=UKC-Python)](https://github.com/Kyeongan/Kyeongan)
 
 
 💬 Ask me about anything [here](https://github.com/kyeongan/kyeongan/issues)
