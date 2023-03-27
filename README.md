@@ -1,4 +1,4 @@
-<p align="left"><a href="https://kyeongan.github.io"><img width="80%" alt="Hello, I'm Karl. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://kyeongan.github.io"><img width="80%" alt="Hello, I'm Karl. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karlkwonphd)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karlkwonphd)
