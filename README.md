@@ -12,9 +12,9 @@
 | ------------- | ------------- |
 
 
-#### Repositories
+<!-- #### Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyeongan&repo=deck.gl)](https://github.com/Kyeongan/Kyeongan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyeongan&repo=UKC-Python)](https://github.com/Kyeongan/Kyeongan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyeongan&repo=UKC-Python)](https://github.com/Kyeongan/Kyeongan) -->
 
 
 💬 Ask me about anything [here](https://github.com/kyeongan/kyeongan/issues)
