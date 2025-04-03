@@ -1,9 +1,6 @@
-<p align="center"><a href="https://kyeongan.github.io"><img width="50%" alt="Hello, I'm Karl. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<img width="400" alt="Hello, I'm Karl. I do open source!" src="./assets/gh-readme-header.png" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karlkwonphd)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karlkwonphd)
 
-#### GitHub stats
 <!-- [![GitHub stats](https://github-readme-stats-kyeongan.vercel.app//api?username=Kyeongan)](https://github.com/Kyeongan/github-readme-stats) -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyeongan&hide_border=false)](https://git.io/streak-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyeongan&langs_count=5&hide=html,css,tex)](https://github.com/Kyeongan/github-readme-stats) -->
